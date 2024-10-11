@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Debugging
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NPM
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
